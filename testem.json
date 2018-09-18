@@ -1,0 +1,4 @@
+{
+  "framework": "jasmine2",
+  "launch_in_dev": ["Chrome"]
+}
